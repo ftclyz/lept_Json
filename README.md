@@ -30,7 +30,9 @@
 
 3.VS下的内存泄漏定位CRT技术
 ============
-    该解析器，在windows下的vs2017社区版的环境下编写，该技术细节参考：https://docs.microsoft.com/zh-cn/visualstudio/debugger/finding-memory-leaks-using-the-crt-library?view=vs-2017&redirectedfrom=MSDN
+   该解析器，在windows下的vs2017社区版的环境下编写  
+
+   该技术细节参考：https://docs.microsoft.com/zh-cn/visualstudio/debugger/finding-memory-leaks-using-the-crt-library?view=vs-2017&redirectedfrom=MSDN
 
 4.unicode编码
 ============
